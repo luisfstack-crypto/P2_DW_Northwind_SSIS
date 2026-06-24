@@ -45,3 +45,35 @@ P2_DW_Northwind_SSIS/
 │
 └── ssis/
     └── ETL_Northwind/
+
+Proceso realizado
+Se creó la base de datos Northwind.
+Se creó la base de datos DW_Northwind.
+Se crearon las tablas de dimensiones y la tabla de hechos.
+Se configuró un proyecto SSIS en Visual Studio.
+Se crearon conexiones OLE DB para Northwind y DW_Northwind.
+Se configuraron Data Flow Task para cargar las tablas.
+Se ejecutó el paquete ETL.
+Se validaron los datos cargados mediante consultas en SQL Server Management Studio.
+Modelo del Data Warehouse
+
+Tabla de hechos:
+
+Orders
+
+Dimensiones:
+
+Products
+Customers
+Employees
+Suppliers
+Time
+Documentación
+
+El documento final se encuentra en la carpeta documentacion/.
+
+## Referencia base
+La estructura de esta práctica se realizó tomando como referencia el documento de ejemplo de la Práctica 2 proporcionado en clase.
+
+Autor
+Ek Pech Luis Alfonso
