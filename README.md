@@ -31,8 +31,8 @@ El proceso ETL fue desarrollado mediante SQL Server Integration Services en Visu
 P2_DW_Northwind_SSIS/
 │
 ├── documentacion/
-│   ├── Practica2_DW_Northwind.docx
-│   └── Practica2_DW_Northwind.pdf
+│   ├── practica2_ejemplo.docx
+│   └── practica2_ejemplo.pdf
 │
 ├── scripts/
 │   ├── 01_crear_dw_northwind.sql
